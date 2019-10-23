@@ -1,0 +1,13 @@
+body {
+font-family: "Arial";
+}
+h1 {
+color: "black";
+text-align: "center";
+font-family: "Arial";
+}
+<style>
+.product-image {
+height: 200px;
+}
+</style>
